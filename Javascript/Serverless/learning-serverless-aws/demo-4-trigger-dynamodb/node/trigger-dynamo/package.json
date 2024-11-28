@@ -9,7 +9,7 @@
   "main": "handler.js",
   "devDependencies": {
     "aws-sdk": "^2.653.0",
-    "serverless": "^2.69.1"
+    "serverless": "^3.27.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
